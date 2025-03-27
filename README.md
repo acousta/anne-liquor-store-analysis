@@ -22,3 +22,6 @@ Identify top-performing products and brands to optimize inventory management usi
 
 │       └── anne_liquor_store_report.pbix
 
+│       └── Images
+│       └──│       └──dashboard_evidence
+
