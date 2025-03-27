@@ -20,5 +20,5 @@ Identify top-performing products and brands to optimize inventory management usi
 
 ├── powerbi/
 
-│       └── dashboard.pbix
+│       └── anne_liquor_store_report.pbix
 
